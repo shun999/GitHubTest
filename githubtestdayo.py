@@ -1,0 +1,4 @@
+print("konnitiwa dayo")
+
+
+
